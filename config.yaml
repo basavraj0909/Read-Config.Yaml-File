@@ -1,0 +1,10 @@
+DATABASE:
+  HOST: 'localhost'
+  PORT: 5432
+  USERNAME: 'admin'
+  PASSWORD: 'password'
+DJANGO:
+  DEBUG: True
+  ALLOWED_HOSTS:
+    - 'localhost'
+    - '127.0.0.1'
