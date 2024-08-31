@@ -1,0 +1,13 @@
+---
+doc:
+  - User1: index.md
+  - User2: docs_user2.md
+
+  - Team1 Documentation:
+      - User3: user3/docs.md
+      - User4: user4/docs.md
+      - User5: user5/docs.md
+
+  - Team xyz documentation:
+      - Commondata: commondata.md
+      - User_n: user_n/docs.md

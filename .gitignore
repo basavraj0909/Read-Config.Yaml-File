@@ -1,0 +1,4 @@
+# Ignore .idea project files
+.idea/2.Read-YAML.iml
+.idea/misc.xml
+.idea/vcs.xml
